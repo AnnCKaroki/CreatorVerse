@@ -29,5 +29,7 @@ CreatorVerse solves these issues by:
 - **Smart Contracts**: Solidity, Hardhat, Ethers.js  
 - **Frontend**: React, Vite, Tailwind CSS  
 - **Blockchain**: Edu Chain (Testnet)  
-- **Storage**: IPFS (Planned)  
+- **Storage**: IPFS (Planned)
+
+  Contract address: 0x1F9e9F6804D028Cca22Cd784c762a0cA74eF4aB6
 
